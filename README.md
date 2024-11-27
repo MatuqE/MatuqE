@@ -17,31 +17,29 @@
 
 
 - **Frontend**:
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-%2300599C.svg?style=for-the-badge&logo=React&logoColor=white)&nbsp;
 
-- **Backend**: Node.js, Express, REST APIs  
-- **Bases de datos**: MySQL, SQL-Server  
-- **Herramientas**: Git, SCRUM  
+- **Backend**:
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge&logo=api&logoColor=white)
+
+- **Bases de datos**:
+
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+- **Herramientas**:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![SCRUM](https://img.shields.io/badge/SCRUM-FF6F00?style=for-the-badge&logo=scrum&logoColor=white)
 
 
-
-<!--
-**MatuqE/MatuqE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -54,4 +52,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### 📫 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/matias-federico-bordenave-221986251/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/matuqe)  
 
